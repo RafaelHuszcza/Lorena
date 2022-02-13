@@ -19,7 +19,6 @@ const ContactUs = () => {
 
   function handleSubmitClick(e) {    
     addToast({ type: "success", title: "Formulário", message:"Enviado com Sucesso" })
-    e.reset()
     e.preventDefault()
     console.log(`Nome: ${name}\nEmail: ${email}\nTelefone: ${phone}\nMessage: ${message}`)
   }

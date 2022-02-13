@@ -55,7 +55,7 @@ const News = () => {
                 <td className= "newsText">{props.content.text}</td>             
                 </tr>  
                 <tr>
-                <td className = "newsMore"><p onClick={()=>{history.push("/login")}}  >Clique para mais</p></td>
+                <td className = "newsMore"><p onClick={()=>{history.push("/login")}} >Clique para mais</p></td>
                 </tr>  
                 <tr>
                 <td className = "newsDate">{props.content.date}</td>                
