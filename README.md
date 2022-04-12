@@ -55,6 +55,12 @@ Para usar o Blog Meta Team, siga estas etapas:
 # No seu terminal, dentro de 'Trabalho-Si/', inicie o projeto executando
 $ yarn start
 ```
+## Login no BLog 
+Utilizando as tecnologias de localStorage!
+
+Para Logar é necessário o uso das credencias:
+Email: rafaelhuszcza@gmail.com
+Senha: 123456789@
 
 ## 📫 Contribuindo para Blog Meta Team
 
