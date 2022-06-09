@@ -1,5 +1,5 @@
 {
-  "name": "trabalho-si",
+  "name": "lorena",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -16,7 +16,7 @@
     "uuidv4": "^6.2.12",
     "web-vitals": "^1.0.1"
   },
-  "homepage": "https://RafaelHuszcza.github.io/Trabalho-Si",
+  "homepage": "https://RafaelHuszcza.github.io/Lorena",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

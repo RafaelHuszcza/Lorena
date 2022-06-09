@@ -1,4 +1,4 @@
-# Blog Meta Team
+# Site para pedir minha Namorada em Namoro
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/RafaelHuszcza/Trabalho-Si?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/RafaelHuszcza/Trabalho-Si?style=for-the-badge)
