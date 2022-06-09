@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Lorena/static/css/main.287da4d7.chunk.css",
-    "main.js": "/Lorena/static/js/main.b6a5464c.chunk.js",
-    "main.js.map": "/Lorena/static/js/main.b6a5464c.chunk.js.map",
+    "main.css": "/Lorena/static/css/main.6189b3c4.chunk.css",
+    "main.js": "/Lorena/static/js/main.5f72701c.chunk.js",
+    "main.js.map": "/Lorena/static/js/main.5f72701c.chunk.js.map",
     "runtime-main.js": "/Lorena/static/js/runtime-main.b68eee0d.js",
     "runtime-main.js.map": "/Lorena/static/js/runtime-main.b68eee0d.js.map",
     "static/js/2.393b3f56.chunk.js": "/Lorena/static/js/2.393b3f56.chunk.js",
     "static/js/2.393b3f56.chunk.js.map": "/Lorena/static/js/2.393b3f56.chunk.js.map",
     "index.html": "/Lorena/index.html",
-    "static/css/main.287da4d7.chunk.css.map": "/Lorena/static/css/main.287da4d7.chunk.css.map",
+    "static/css/main.6189b3c4.chunk.css.map": "/Lorena/static/css/main.6189b3c4.chunk.css.map",
     "static/js/2.393b3f56.chunk.js.LICENSE.txt": "/Lorena/static/js/2.393b3f56.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b68eee0d.js",
     "static/js/2.393b3f56.chunk.js",
-    "static/css/main.287da4d7.chunk.css",
-    "static/js/main.b6a5464c.chunk.js"
+    "static/css/main.6189b3c4.chunk.css",
+    "static/js/main.5f72701c.chunk.js"
   ]
 }
