@@ -1,5 +1,5 @@
 import React from "react";
-import { useHistory } from 'react-router-dom'
+import { useHistory } from "react-router-dom";
 
 import "./styles.css";
 
@@ -12,18 +12,27 @@ const Header = () => {
 
   return (
     <div className="pedido">
-
-        <div className="divnada">
-        <p id="name">Lorena Vizzoni da Silva Coelho</p>       
+      <div className="divnada">
+        <p id="name">Lorena Vizzoni da Silva Coelho</p>
         <p id="aceita">Você aceita Namorar Comigo</p>
-        <div className="Botoes">  
-        {/* onClick={("") => history.push('/Sim')}         */}
-          <button  onClick={window.location.href="https://www.youtube.com/watch?v=WgTMeICssXY"} id="sim">Sim</button> <button id="nao" onClick={myFunction}>Não</button></div>
+        <div className="Botoes">
+          <button
+            onClick={() =>
+              (window.location.href =
+                "https://www.youtube.com/watch?v=WgTMeICssXY")
+            }
+            id="sim"
+          >
+            Sim
+          </button>
+          <button id="nao" onClick={myFunction}>
+            Não
+          </button>
         </div>
-                
-      {/* </div> */}
       </div>
 
+      {/* </div> */}
+    </div>
   );
 };
 
