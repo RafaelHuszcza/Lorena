@@ -6,11 +6,11 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/RafaelHuszcza/Trabalho-Si?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/RafaelHuszcza/Trabalho-Si?style=for-the-badge)
 
-
 <!-- Alterar cover quando o projeto estiver 100% funcional -->
+
 ![Cover MetaNews](https://user-images.githubusercontent.com/62501031/148819263-3e8a0c4a-d166-463a-a4b9-e1d731260f59.gif)
 
-> Website de leitura de notícias
+<!-- > Website de leitura de notícias
 
 O Blog Meta Team é um blog feito do zero usando React. Ele é o Trabalho Complementar 3.1 proposto na disciplina de Sistemas de Informação, ministrada pelo professor Rafael Berri. Seu design pode ser encontrado [aqui](https://www.canva.com/design/DAE0-o_Qdz8/3CIb63AvQM7X0AZgDrpg0g/view?utm_content=DAE0-o_Qdz8&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton#3)
 
@@ -26,13 +26,13 @@ O Blog Meta Team é um blog feito do zero usando React. Ele é o Trabalho Comple
 
 - [x] Versionamento de projeto através da ferramenta GIT;
 - [x] Uso da biblioteca React com o fim de facilitar a criação de páginas;
-- [x] Entre outros.
+- [x] Entre outros. -->
 
 ## 💻 Tecnologias
 
 - [React.js](https://pt-br.reactjs.org/): que permite a criação de páginas e componentes que podem ser reutilizados, além de diversas outras funcionalidades
 
-## 🚀 Instalando o Blog Meta Team
+<!-- ## 🚀 Instalando o Blog Meta Team
 
 Para instalar o Blog Meta Team, siga estas etapas:
 
@@ -55,7 +55,7 @@ Para usar o Blog Meta Team, siga estas etapas:
 # No seu terminal, dentro de 'Trabalho-Si/', inicie o projeto executando
 $ yarn start
 ```
-## Login no BLog 
+## Login no BLog
 Utilizando as tecnologias de localStorage!
 
 Para Logar é necessário o uso das credencias:
@@ -74,4 +74,4 @@ Para contribuir com o Blog Meta Team, siga estas etapas:
 4. Envie para o branch original: `git push origin Trabalho-Si / <local>`
 5. Crie a solicitação de pull.
 
-Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request). -->
