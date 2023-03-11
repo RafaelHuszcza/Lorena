@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Lorena/static/css/main.287da4d7.chunk.css",
-    "main.js": "/Lorena/static/js/main.5b64f48a.chunk.js",
-    "main.js.map": "/Lorena/static/js/main.5b64f48a.chunk.js.map",
+    "main.js": "/Lorena/static/js/main.e8318979.chunk.js",
+    "main.js.map": "/Lorena/static/js/main.e8318979.chunk.js.map",
     "runtime-main.js": "/Lorena/static/js/runtime-main.cb3e2d07.js",
     "runtime-main.js.map": "/Lorena/static/js/runtime-main.cb3e2d07.js.map",
     "static/js/2.7909d8b5.chunk.js": "/Lorena/static/js/2.7909d8b5.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.cb3e2d07.js",
     "static/js/2.7909d8b5.chunk.js",
     "static/css/main.287da4d7.chunk.css",
-    "static/js/main.5b64f48a.chunk.js"
+    "static/js/main.e8318979.chunk.js"
   ]
 }
