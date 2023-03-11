@@ -8,7 +8,7 @@
 
 <!-- Alterar cover quando o projeto estiver 100% funcional -->
 
-![Cover MetaNews](https://user-images.githubusercontent.com/62501031/148819263-3e8a0c4a-d166-463a-a4b9-e1d731260f59.gif)
+![Cover MetaNews](![image](https://user-images.githubusercontent.com/62501031/224515211-8d68a331-0f28-40ea-8778-f26376950ed3.png))
 
 <!-- > Website de leitura de notícias
 
